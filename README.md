@@ -31,7 +31,7 @@ Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 
 
     ✅ Bỏ các mục không cần thiết đi, như là: Objective, The Schools... 😕
 
-    ✅ Nhớ chú ý xóa hết từ **_Tôi_** trong CV nhé 👌
+    ✅ Nhớ chú ý xóa hết từ "TÔI" trong CV nhé 👌
 
     ✅ Sử dụng những từ thông dụng và nhưng ấn tượng về lĩnh vực công việc đó - tránh sử dụng các từ
     trẻ trâu, gạ chịch ở đây nhé 🙄
@@ -54,7 +54,7 @@ Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 
 
     ✅ Bỏ vào thôi ! Như là tham gia event gì, làm event gì, đạt giải thưởng gì ...
 
-    ✅ Nhưng nhớ là phải **_liên quan_** đến công việc mình apply nhé 🙁
+    ✅ Nhưng nhớ là phải "LIÊN QUAN" đến công việc mình apply nhé 🙁
 
 ✅ Nên nói những gì bạn đã làm được mà **_ẢNH HƯỞNG TỐT_** đến dự án, sự kiện hơn là TRÁCH NHiỆM
 của bạn trong đó
@@ -63,7 +63,7 @@ của bạn trong đó
 
 ✅ Xàm lol k có gì zui => Chúng ta không nên xạo lol
 
-    => Chỉ viết những cái là **của mình**, **mình biết** thôi. Nếu lộ ra bạn chém gió, xạo lol
+    => Chỉ viết những cái là "CỦA MÌNH", "MÌNH BIẾT" thôi. Nếu lộ ra bạn chém gió, xạo lol
     => Fuck off !!!!
 
 ## Mindmap để Master trong phỏng vấn !
@@ -75,10 +75,14 @@ _[Link nguồn](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-intervie
 
 > **LƯU Ý**: CV này không bao giờ là **cố định**, mỗi cty cần 1 thứ ! Flexiable lên !!!
 
-Vì công ty này yêu cầu biết JS, PostgreSQL, React. NodeJS => Mình chỉ nêu tập trung vào những cái họ cần thôi,
-còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next
+Vì công ty này yêu cầu biết JS, PostgreSQL, React, NodeJS => Mình chỉ nêu tập trung vào những cái họ cần thôi,
+còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next !
+
+Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó có liên quan đến công việc mình apply thôi !
 
 ![CV nè](https://i.imgur.com/AuTmZHD.png)
 
 > _Dù sao thì CV vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào
 > việc apply của bạn !_
+
+Tuần sau, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người có gì ủng hộ mình = cách follow mình nhé 🤪
