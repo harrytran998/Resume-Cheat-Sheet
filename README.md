@@ -1,6 +1,14 @@
 # CV-Cheat-Sheet
 
-> Sau đây là kinh nghiệm viết CV của các anh/chị làm tuyển dụng + Tech Leader khi viết CV ngành Kỹ thuật phần mềm
+## Template CV
+
+Như 1 người không biết design như mình thì tự thiết kế 1 cái CV theo ý mình => Rất khó + tốn time !
+
+Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 1 trang nhanh gọn + Okie nhất (theo quan điểm của mình)
+
+**Link**: [https://www.resumemaker.online/](https://www.resumemaker.online/)
+
+## Kinh nghiệm viết CV
 
 ✅ Sử dụng 1 template CV sẵn nếu k có kỹ năng design - như mình 😁
 
