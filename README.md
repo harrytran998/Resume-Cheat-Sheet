@@ -40,21 +40,21 @@ Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 
 
 ✅ Nguyên tắc về điểm GPA:
 
-    ✅ Chỉ bỏ GPA vào CV nếu nó >= 3.0/4.0
+    ✅ Nên quy đổi về điểm 4.0 để toàn cầu hóa hơn
 
-    ✅	Nên quy đổi về điểm 4.0 để toàn cầu hóa hơn
+    ✅ Chỉ bỏ GPA vào CV nếu nó >= 3.0/4.0
 
 ✅ Project:
 
     ✅ Nên pick từ 2-5 Project cá nhân hoặc team vào CV
 
-    ✅	Trường hợp nếu không có - Bị trừ điểm thôi, chứ không nên xạo lol nhé 😌
+    ✅ Trường hợp nếu không có - Bị trừ điểm thôi, chứ không nên xạo lol nhé 😌
 
 ✅ Các kinh nghiệm bổ sung:
 
     ✅ Bỏ vào thôi ! Như là tham gia event gì, làm event gì, đạt giải thưởng gì ...
 
-    ✅	Nhưng nhớ là phải **_liên quan_** đến công việc mình apply nhé 🙁
+    ✅ Nhưng nhớ là phải **_liên quan_** đến công việc mình apply nhé 🙁
 
 ✅ Nên nói những gì bạn đã làm được mà **_ẢNH HƯỞNG TỐT_** đến dự án, sự kiện hơn là TRÁCH NHiỆM
 của bạn trong đó
@@ -73,7 +73,10 @@ _[Link nguồn](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-intervie
 
 ## CV của mình
 
-> Lưu ý: CV này không bao giờ là **cố định**, mỗi cty cần 1 thứ ! Flexiable lên !!!
+> **LƯU Ý**: CV này không bao giờ là **cố định**, mỗi cty cần 1 thứ ! Flexiable lên !!!
+
+Vì công ty này yêu cầu biết JS, PostgreSQL, React. NodeJS => Mình chỉ nêu tập trung vào những cái họ cần thôi,
+còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next
 
 ![CV nè](https://i.imgur.com/AuTmZHD.png)
 
