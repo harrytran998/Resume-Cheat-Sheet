@@ -17,15 +17,15 @@ Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 
 ✅ Format CV:
 
     ✅ CV viết bằng Tiếng Anh nhé 😕 - Thời đại English lên ngôi mà viết tiếng Việt là nhường chỗ cho
-    	 người # đấy !
+    người # đấy !
 
     ✅ Nhà tuyển dụng chỉ dành 15-20s đọc CV => CV nên chỉ duy nhất 1 trang duy nhất, viết ngắn gọn và
-    	súc tích thôi 😆
+    súc tích thôi 😆
 
     ✅ Phần đầu tiên trong CV => Nên phản ánh lên những gì mà nhà tuyển dụng cần 😎
 
     ✅ Chỉ nên có các phần gây ấn tượng như: Kinh nghiệm - Dự Án - Giải Thưởng - Giáo dục - Kỹ năng
-    	chuyên môn và kỹ năng mềm
+    chuyên môn và kỹ năng mềm
 
     ✅ Kiến thức/Kỹ năng về kỹ thuật - Những gì họ đang tìm kiếm (Chỉ tối đa 5 thôi nhé 😸)
 
@@ -34,23 +34,26 @@ Nên mình đã tìm các trang làm ra template CV, và mình thấy đây là 
     ✅ Nhớ chú ý xóa hết từ **_Tôi_** trong CV nhé 👌
 
     ✅ Sử dụng những từ thông dụng và nhưng ấn tượng về lĩnh vực công việc đó - tránh sử dụng các từ
-    	trẻ trâu, gạ chịch ở đây nhé 🙄
+    trẻ trâu, gạ chịch ở đây nhé 🙄
 
     ✅ Để ý kỹ càng ngữ pháp và chính tả 👊
 
 ✅ Nguyên tắc về điểm GPA:
 
     ✅ Chỉ bỏ GPA vào CV nếu nó >= 3.0/4.0
+
     ✅	Nên quy đổi về điểm 4.0 để toàn cầu hóa hơn
 
 ✅ Project:
 
     ✅ Nên pick từ 2-5 Project cá nhân hoặc team vào CV
+
     ✅	Trường hợp nếu không có - Bị trừ điểm thôi, chứ không nên xạo lol nhé 😌
 
 ✅ Các kinh nghiệm bổ sung:
 
     ✅ Bỏ vào thôi ! Như là tham gia event gì, làm event gì, đạt giải thưởng gì ...
+
     ✅	Nhưng nhớ là phải **_liên quan_** đến công việc mình apply nhé 🙁
 
 ✅ Nên nói những gì bạn đã làm được mà **_ẢNH HƯỞNG TỐT_** đến dự án, sự kiện hơn là TRÁCH NHiỆM
@@ -61,7 +64,7 @@ của bạn trong đó
 ✅ Xàm lol k có gì zui => Chúng ta không nên xạo lol
 
     => Chỉ viết những cái là **của mình**, **mình biết** thôi. Nếu lộ ra bạn chém gió, xạo lol
-    	=> Fuck off !!!!
+    => Fuck off !!!!
 
 ## Mindmap để Master trong phỏng vấn !
 
