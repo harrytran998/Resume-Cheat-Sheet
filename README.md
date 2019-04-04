@@ -76,8 +76,8 @@ _[Link nguồn](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-intervie
 
 > **LƯU Ý**: Resume này không bao giờ là **cố định**, mỗi cty cần 1 thứ ! Flexiable lên !!!
 
-Vì công ty này yêu cầu biết JS, PostgreSQL, React, NodeJS => Mình chỉ nêu tập trung vào những cái họ cần thôi,
-còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next !
+Vì công ty này là cty Việt Nam và yêu cầu biết JS, PostgreSQL, React, NodeJS => Mình chỉ nêu tập trung
+vào những cái họ cần thôi, còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next !
 
 Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó có liên quan đến công việc mình apply thôi !
 
@@ -86,4 +86,8 @@ Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó 
 > _Dù sao thì Resume vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào
 > việc apply của bạn !_
 
-Tuần sau, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người có gì ủng hộ mình = cách follow mình nhé 🤪
+Tuần sau, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người
+có gì ủng hộ mình = cách follow mình nhé 🤪
+
+Mình sure là sẽ có những ý kiến trái chiều, cơ mà bạn sẽ lựa chọn **ĐÁM ĐÔNG** hay là theo **Ý MÌNH**, dù có
+sao đi nữa thì đây là vẫn là sự lựa chọn của mình - không hối hận !
