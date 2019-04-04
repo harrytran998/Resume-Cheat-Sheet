@@ -81,6 +81,8 @@ vào những cái họ cần thôi, còn lại Java, C# hay C họ không cần 
 
 Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó có liên quan đến công việc mình apply thôi !
 
+> **(Resume đang trong quá trình FIX)**
+
 ![Resume nè](https://i.imgur.com/bV3WNMr.png)
 
 > _Dù sao thì Resume vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào
