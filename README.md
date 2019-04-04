@@ -7,23 +7,36 @@ Hi mọi người, đây là các **MẸO** do mình sưu tầm trên mạng đ�
 
 Như 1 người không biết design như mình thì tự thiết kế 1 cái Resume theo ý mình => Rất khó + tốn time !
 
-Nên mình đã tìm các trang làm ra template Resume, và mình thấy đây là 1 trang nhanh gọn + Okie nhất (theo quan điểm của mình)
+Nên mình đã tìm các trang làm ra template Resume, và mình thấy đây là 1 trong những trang nhanh gọn(theo quan điểm của mình)
 
 **Link**: [https://www.resumemaker.online/](https://www.resumemaker.online/)
+
+> Theo lời góp ý của bạn @LongKe thì có 1 trang nữa cũng generate ra template - simple mode - high efficiency
+
+**Link**: [https://resumake.io/generator/templates](https://resumake.io/generator/templates)
 
 ## Viết Resume phong cách 4.0
 
 ✅ Sử dụng 1 template Resume sẵn nếu k có kỹ năng design, như mình 😁
+
+✅ Áp dụng quy tắc 4W - (**_When - Where - What - Who_**) cho các phần viết ra
 
 ✅ Format Resume:
 
     ✅ Resume viết bằng Tiếng Anh nhé 😕 - Thời đại English lên ngôi mà viết tiếng Việt là nhường chỗ cho
     người # đấy !
 
-    ✅ Nhà tuyển dụng chỉ dành 15-20s đọc Resume => Nên chỉ duy nhất 1 trang duy nhất, viết ngắn gọn và
+    ✅ Nhà tuyển dụng chỉ dành 6-10s đọc Resume => Nên chỉ duy nhất 1 trang duy nhất, viết ngắn gọn và
     súc tích thôi 😆
 
-    ✅ Phần đầu tiên trong Resume => Nên phản ánh lên những gì mà nhà tuyển dụng cần 😎
+    ✅ Phần đầu tiên trong Resume => Nên phản ánh lên những gì mà nhà tuyển dụng cần 😎.
+    Focus vào Exp vs Knowledge - @VanHung
+
+    ✅ Liệt kê EXP thì phải tìm hiểu quy tắc "PARAPHASE", từ ngữ dùng phải đúng mục đích, có thể search thêm
+    các động từ liên quan đến ngành mình - @VanHung
+
+        ✅ Phần detail => Tên dự án, quy mô, thống kê, effort của mình trong dự án, dự án approach
+        bao nhiêu users...
 
     ✅ Chỉ nên có các phần gây ấn tượng như: Kinh nghiệm - Dự Án - Giải Thưởng - Giáo dục - Kỹ năng
     chuyên môn và kỹ năng mềm
@@ -60,6 +73,13 @@ Nên mình đã tìm các trang làm ra template Resume, và mình thấy đây 
 ✅ Nên nói những gì bạn đã làm được mà **_ẢNH HƯỞNG TỐT_** đến dự án, sự kiện hơn là TRÁCH NHIỆM
 của bạn trong đó
 
+✅ Resume => cty nước ngoài, đặc biệt là Mỹ => Nên tránh để **Photo** hay **Gender** vì họ có đạo
+luật bảo đảm công bằng cho ứng viên. => Người duyệt resume thấy resume có các yếu tố có thể gây bias
+như giới tính, chủng tộc,.. => Bỏ đi dù resume đấy có mạnh đến đâu ! (Cảm ơn bạn LongKe góp ý)
+
+✅ Đối với các công ty lớn thì họ sẽ sử phần mềm để quyét Resume - Hệ thống ATS để giảm thời gian với 1
+số lượng lớn ứng viên. Sau khi viết xong thì mọi người nên check qua cái này nhé - [Link tìm hiểu hệ thống ATS](https://www.thebalancecareers.com/how-to-get-your-resume-past-the-applicant-tracking-system-2063135)
+
 ✅ Nên kèm theo vài link online (_Github, GitLab, Codeforces, LinkedIn_ .... 😇)
 
 ✅ Xàm lol k có gì zui => Chúng ta không nên xạo lol
@@ -71,6 +91,10 @@ của bạn trong đó
 
 ![Master the interview](https://i.imgur.com/yTSt7rs.png)
 _[Link nguồn](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-interview)_
+
+Đây là các bài viết mình được suggest để thêm info, ae đọc qua nhé !
+
+- [Some insights from a former tech recruiter](https://www.reddit.com/r/cscareerquestions/comments/b8wq7k/some_insights_from_a_former_tech_recruiter/)
 
 ## Resume của mình
 
@@ -93,3 +117,9 @@ có gì ủng hộ mình = cách follow mình nhé 🤪
 
 Mình sure là sẽ có những ý kiến trái chiều, cơ mà bạn sẽ lựa chọn **ĐÁM ĐÔNG** hay là theo **Ý MÌNH**, dù có
 sao đi nữa thì đây là vẫn là sự lựa chọn của mình - không hối hận !
+
+## Cảm ơn
+
+Mình xin cảm ơn những đóng góp của các ACE để giúp mình hoàn thiện bài viết và Resume của mình hơn nhé 🤝
+
+> @LongKe, @VanHung, @KennySang
