@@ -42,6 +42,10 @@ Nên mình đã tìm các trang làm ra template Resume, và mình thấy đây 
     chuyên môn và kỹ năng mềm
 
     ✅ Kiến thức/Kỹ năng về kỹ thuật - Những gì họ đang tìm kiếm (Chỉ tối đa 5 thôi nhé 😸)
+    Nên phân nhóm các skill lại
+
+    ✅ Kiến thức là thứ khó có thể cân đo đong đếm được => K để dưới dạng con số, % hay các vạch ...
+    => Nên để ghi chú như là: Basic/Intermediate/Proficient - @HieuTran
 
     ✅ Bỏ các mục không cần thiết đi, như là: Objective, The Schools... 😕
 
@@ -80,6 +84,8 @@ như giới tính, chủng tộc,.. => Bỏ đi dù resume đấy có mạnh đ�
 ✅ Đối với các công ty lớn thì họ sẽ sử phần mềm để quyét Resume - Hệ thống ATS để giảm thời gian với 1
 số lượng lớn ứng viên. Sau khi viết xong thì mọi người nên check qua cái này nhé - [Link tìm hiểu hệ thống ATS](https://www.thebalancecareers.com/how-to-get-your-resume-past-the-applicant-tracking-system-2063135)
 
+✅ Vào cty lớn thì nên để resume dưới dạng LaTeX để họ dễ dàng scan nhé - @LongKe
+
 ✅ Nên kèm theo vài link online (_Github, GitLab, Codeforces, LinkedIn_ .... 😇)
 
 ✅ Xàm lol k có gì zui => Chúng ta không nên xạo lol
@@ -103,11 +109,11 @@ _[Link nguồn](https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-intervie
 Vì công ty này là cty Việt Nam và yêu cầu biết JS, PostgreSQL, React, NodeJS => Mình chỉ nêu tập trung
 vào những cái họ cần thôi, còn lại Java, C# hay C họ không cần => Bỏ vào cũng chả để làm gì => Next !
 
-Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó có liên quan đến công việc mình apply thôi !
+**Old resume**: Cái này là viết trước khi đang còn ếch ngồi đáy giếng
 
-> **(Resume đang trong quá trình FIX)**
+![Resume cũ nè](https://i.imgur.com/bV3WNMr.png)
 
-![Resume nè](https://i.imgur.com/bV3WNMr.png)
+**Currently Resume**: Viết sau khi ăn hành
 
 > _Dù sao thì Resume vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào
 > việc apply của bạn !_
@@ -115,11 +121,13 @@ Mình có thêm mục **Hobbies**, và mình chỉ lấy những mục nào nó 
 Tuần sau, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người
 có gì ủng hộ mình = cách follow mình nhé 🤪
 
-Mình sure là sẽ có những ý kiến trái chiều, cơ mà bạn sẽ lựa chọn **ĐÁM ĐÔNG** hay là theo **Ý MÌNH**, dù có
-sao đi nữa thì đây là vẫn là sự lựa chọn của mình - không hối hận !
-
 ## Cảm ơn
 
 Mình xin cảm ơn những đóng góp của các ACE để giúp mình hoàn thiện bài viết và Resume của mình hơn nhé 🤝
 
-> @LongKe, @VanHung, @KennySang
+| Name       | Link Facebook                                         |
+| ---------- | ----------------------------------------------------- |
+| @LongKe    | [Long Ke](https://www.facebook.com/longkeeee)         |
+| @VanHung   | [Văn Hưng](https://www.facebook.com/h2physics42)      |
+| @KennySang | [Sang Đắc Nguyễn](https://www.facebook.com/dacsang97) |
+| @HieuTran  | [Hieu Tran](https://www.facebook.com/kyehani)         |
