@@ -115,10 +115,13 @@ vào những cái họ cần thôi, còn lại Java, C# hay C họ không cần 
 
 **Currently Resume**: Viết sau khi ăn hành
 
-> _Dù sao thì Resume vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào
-> việc apply của bạn !_
+![Resume cũ nè](https://i.imgur.com/Tbb1N8O.png)
 
-Tuần sau, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người
+> Mình sẽ để kèm link file doc ở đây để mn có thể download về và chỉnh sửa nhé ! ([Link here](https://drive.google.com/file/d/1lVbYtLnxaNari6cIL9PdoBe3D2GL9i_o/view))
+
+_Dù sao thì Resume vẫn chỉ là 1 passport thôi ! **Trình độ + Thái độ** quyết định rất nhiều vào việc apply của bạn !_
+
+Lúc rảnh, mình sẽ ra 1 series về cách trả lời phỏng vấn như thế nào theo cái Mindmap trên kia nhé ! Mọi người
 có gì ủng hộ mình = cách follow mình nhé 🤪
 
 ## Cảm ơn
