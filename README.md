@@ -115,7 +115,7 @@ vào những cái họ cần thôi, còn lại Java, C# hay C họ không cần 
 
 **Currently Resume**: Viết sau khi ăn hành
 
-![Resume cũ nè](https://i.imgur.com/Tbb1N8O.png)
+![Resume hiện tại](https://i.imgur.com/4uE9w4U.png)
 
 > Mình sẽ để kèm link file doc ở đây để mn có thể download về và chỉnh sửa nhé ! ([Link here](https://drive.google.com/file/d/1lVbYtLnxaNari6cIL9PdoBe3D2GL9i_o/view))
 
